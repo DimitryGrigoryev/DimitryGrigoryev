@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! 👋 Меня зовут Димитрий, я начинающий разработчик (Java backend). Живу в новосибирске.
 
-<!--
-**DimitryGrigoryev/DimitryGrigoryev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Сейчас работаю над учебным проектом приложение калькулятор.
+- 🌱 Также прохожу обучение в [21School](https://21-school.ru/)
+- 💬 Интересуюсь программированием, тестированием, автоматической итеграцией.
+- 📫 Как со мной связаться: [Telegram](https://t.me/GrigoryevDK),  [Email](mailto:grigoryevdk@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Skills
+- 👨‍💻 Java core, C, Bash
+- 👁️ Grafana, Prometheus, GoAccess
+- 💽 SQL, PostgreSQL, Hadoop, Docker, GitFlow, GitLab, IntelliJ IDEA, 
+- ⚙️ Algoritms, Linux, MacOs, Понимание сетей на базовом уровне (HTTP, TCP/IP)
+
