@@ -10,5 +10,5 @@
 - 👨‍💻 Java core, Spring, REST API, C, Bash
 - 👁️ Zabbix, Grafana, Prometheus, GoAccess
 - 💽 SQL, PostgreSQL, Docker, GitFlow, CI/CD(GitLab)
-- ⚙️ Unux, MacOs, Понимание сетей на базовом уровне (HTTP, TCP/IP)
+- ⚙️ Unix, MacOs, Понимание сетей на базовом уровне (HTTP, TCP/IP)
 
